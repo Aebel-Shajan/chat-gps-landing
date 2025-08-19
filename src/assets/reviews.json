@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Angie S",
+    "date": "Aug 18, 2025",
+    "comment": "Chat GPS is lowkey a lifesaver, its good for the long answers chat gpt gives",
+    "rating": 5
+  },
+  {
+    "name": "Koji Mon",
+    "date": "Aug 2, 2025",
+    "comment": "things i never knew i needed",
+    "rating": 5
+  },
+  {
+    "name": "Madeleine Smith",
+    "date": "Jun 15, 2025",
+    "comment": "Handy - thanks 💯",
+    "rating": 5
+  },
+  {
+    "name": "Maxim Mogilevskiy",
+    "date": "Feb 19, 2025",
+    "comment": "It's amazing! This is exactly what I've been wanting for so long. Kudos to the author.",
+    "rating": 5
+  },
+  {
+    "name": "Siddique K",
+    "date": "Nov 30, 2024",
+    "comment": "this extension really very helpful to navigate between previous prompts, thanks to the developer🎉",
+    "rating": 5
+  },
+  {
+    "name": "BABU Pathrose",
+    "date": "Nov 3, 2024",
+    "comment": "Amazing!!",
+    "rating": 5
+  },
+  {
+    "name": "Joepeter Shajan",
+    "date": "Nov 1, 2024",
+    "comment": "Really helpfu",
+    "rating": 5
+  },
+  {
+    "name": "Gabe Shires",
+    "date": "Oct 25, 2024",
+    "comment": "So useful for those long conversations with chat gpt",
+    "rating": 5
+  },
+  {
+    "name": "seemo",
+    "date": "Oct 21, 2024",
+    "comment": "Very useful. helpful developer.",
+    "rating": 5
+  },
+  {
+    "name": "Jeff Kang",
+    "date": "Oct 19, 2024",
+    "comment": "Thanks a lot for your work on this extension! I recently found the Web Highlights extension that highlights and bookmarks a position on a long ChatGPT prompt. I think this ChatGPT ScrollMap will complement the other extension well, as I scroll more easier to find what I want to highlight.",
+    "rating": 5
+  },
+  {
+    "name": "Farc Koog",
+    "date": "Sep 12, 2024",
+    "comment": "Great tool, just has little bugs when you are using it in dark mode. The user 'Roman Vus' described exactly the same problem that I had. It seems to me that the athor of the tool need to make a nice design for dark mode cases",
+    "rating": 5
+  },
+  {
+    "name": "Roma Vus",
+    "date": "Aug 15, 2024",
+    "comment": "The idea by it self is so great but there is a few butgs in the extention. I will just inform you of the bugs I found. I use dark theme, and on the dark theme, the minimap is white and the text is white, so it is a bit hard to see what is going on. Also, after a while, it starts to slow down and freeze a bit. I really like this idea and, to be honest, for my jobe, I would add a minimap to browser, but it is probably too complicated and the browsers might not allow to do that.",
+    "rating": 4
+  }
+]
