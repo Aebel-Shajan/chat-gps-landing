@@ -24,10 +24,11 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
 
-    # Deploy to GitHub Pages
-    - name: Deploy to GitHub Pages
-      if: github.ref == 'refs/heads/main'  # only deploy on main branch
-      uses: peaceiris/actions-gh-pages@v7
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v4.0.0
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./dist  # change this to your build output folder
+        path: ./build   # React's build output
+    
+    - name: Deploy GitHub Pages site
+      uses: actions/deploy-pages@v4.0.5
+      
