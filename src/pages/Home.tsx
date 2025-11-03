@@ -1,12 +1,12 @@
 import type { ReactNode } from "react"
-import { ThemeProvider } from "./components/theme-provider"
-import { Button } from "./components/ui/button"
-import { cn } from "./lib/utils"
-import demo from "./assets/demo.gif"
-import ReviewCarousel from "./components/review-carousel"
+import { ThemeProvider } from "../components/theme-provider"
+import { Button } from "../components/ui/button"
+import { cn } from "../lib/utils"
+import demo from "@/assets/demo.gif"
+import ReviewCarousel from "../components/review-carousel"
 import chromeWebStore from "@/assets/chrome-web-store.png"
-import FAQSection from "./components/faq-section"
-import Footer from "./components/footer"
+import FAQSection from "../components/faq-section"
+import Footer from "../components/footer"
 import logo from "@/assets/icon.png"
 import ss1 from "@/assets/ss1.png"
 import ss2 from "@/assets/ss2.png"
@@ -78,7 +78,7 @@ function AssistantChat(
 
 
 
-function App() {
+function HomePage() {
 
   return (
     <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
@@ -229,5 +229,5 @@ function App() {
   )
 }
 
-export default App
+export default HomePage
 
