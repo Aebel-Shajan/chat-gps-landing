@@ -6,7 +6,7 @@ import { defineConfig } from "vite"
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/chat-gps-landing/',
+  base: '/chat-gps-landing',
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
